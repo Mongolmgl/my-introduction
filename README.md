@@ -1,4 +1,4 @@
-[![MasterHead]<img align="right" alt="ux/ui" widht="400"  src="https://miro.medium.com/max/1190/1*EQ6aRolkuynVKW8ZSGre6g.gif">]
+[![MasterHead]<img align="right" alt="ux/ui" widht="2000"  src="https://miro.medium.com/max/1190/1*EQ6aRolkuynVKW8ZSGre6g.gif">]
 <h1 align="center">Hi 👋, I'm Nyambat</h1>
 <h3 align="center">A passionate UX/UI DESIGNER</h3>
 

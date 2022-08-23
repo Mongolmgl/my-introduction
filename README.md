@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nyambat</h1>
 <img align="right" alt="ux/ui" widht="2000"  src="https://miro.medium.com/max/1190/1*EQ6aRolkuynVKW8ZSGre6g.gif">
-<h3 align="right">A passionate UX/UI DESIGNER</h3>
+<h3 align="left">A passionate UX/UI DESIGNER</h3>
 
 - 🔭 I’m currently working on [erxes inc](https://erxes.io/)
 
